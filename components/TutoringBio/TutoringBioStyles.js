@@ -1,15 +1,15 @@
 import styled from "styled-components";
 
 export const Header2 = styled.div`
-  font-family: "SF Pro" !important;
-  font-style: normal;
-  font-weight: 400;
+  font-family: "Roboto";
+  // font-style: normal;
+  font-weight: 600;
   font-size: 12px;
   line-height: 189.9%;
   /* or 23px */
   padding-top: 10px;
   padding-bottom: 10px;
-
+  // background: yellow;
   text-align: center;
   letter-spacing: 0.045em;
   text-transform: uppercase;
@@ -29,7 +29,7 @@ export const CsCard = styled.div`
 `;
 
 export const SubjectHeader = styled.div`
-  font-family: "SF Pro";
+  font-family: "Roboto";
   font-style: normal;
   font-weight: 600;
   font-size: 12px;
@@ -42,7 +42,7 @@ export const SubjectHeader = styled.div`
   padding-bottom: 10px;
 `;
 export const Decription = styled.div`
-  font-family: "SF Pro";
+  font-family: "Roboto";
   font-style: normal;
   font-weight: 300;
   font-size: 12px;

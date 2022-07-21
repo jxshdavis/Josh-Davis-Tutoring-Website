@@ -13,8 +13,8 @@ export const Container = styled.div`
 `;
 
 export const Title = styled.div`
-  font-family: "SF Pro";
-  font-family: "Futura";
+  font-family: "Roboto";
+
   font-size: 30px;
   line-height: 35px;
   /* identical to box height */
@@ -25,7 +25,7 @@ export const Title = styled.div`
 `;
 
 export const Information = styled.div`
-  font-family: "SF Pro";
+  font-family: "Roboto";
   font-style: normal;
   font-weight: 300;
   font-size: 12px;
