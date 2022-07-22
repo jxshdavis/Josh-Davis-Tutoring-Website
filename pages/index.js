@@ -1,10 +1,11 @@
 import Head from "next/head";
 import Image from "next/image";
-import styled from "../styles/Home.module.css";
+import styles from "../styles/Home.module.css";
 import Navbar from "../components/Navbar";
 import Header from "../components/Header";
 import Testimonials from "../components/Testimonials/Testimonials";
 import Footer from "../components/Footer/Footer";
+import styled from "styled-components";
 
 const Container = styled.div`
   @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap");

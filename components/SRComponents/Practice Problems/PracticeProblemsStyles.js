@@ -2,7 +2,8 @@ import styled from "styled-components";
 
 export const Title = styled.div`
   padding: 3rem;
-  font-family: "Roboto";
+  // font-family: "Roboto";
+  font-weight: 100;
   font-size: 30px;
   line-height: 35px;
   /* identical to box height */

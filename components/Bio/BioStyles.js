@@ -4,10 +4,6 @@ background:green:
 
 `;
 export const Name = styled.div`
-  font-family: "Roboto";
-
-  src: url("../asset/Roboto/Roboto-Black.ttf");
-
   font-style: normal;
   font-weight: 1000;
   font-size: 30px;
@@ -18,7 +14,7 @@ export const Name = styled.div`
 `;
 
 export const Header2 = styled.div`
-  font-family: "Roboto";
+  font-family: "Roboto", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 12px;
@@ -35,7 +31,7 @@ export const Header2 = styled.div`
 `;
 
 export const Content = styled.div`
-  font-family: "Roboto";
+  font-family: "Roboto", sans-serif;
   font-style: normal;
   font-weight: 300;
   font-size: 12px;
@@ -49,7 +45,7 @@ export const Content = styled.div`
 `;
 
 export const Header3 = styled.div`
-font-family: "Roboto";
+  font-family: "Roboto", sans-serif;
   font-style: normal;
   font-weight: 300;
   font-size: 12px;
@@ -65,7 +61,7 @@ font-family: "Roboto";
 `;
 
 export const Content2 = styled.div`
-  font-family: "Roboto";
+  font-family: "Roboto", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;

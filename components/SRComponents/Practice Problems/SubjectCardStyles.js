@@ -47,7 +47,7 @@ export const Preview = styled.div`
   display: flex;
   flex-direction: row;
   align-content: center;
-  font-family: "Roboto";
+  // font-family: "Roboto";
   font-size: 12px;
   line-height: 14px;
   letter-spacing: 0.31em;
@@ -72,7 +72,7 @@ export const Text = styled.div`
   display: flex;
   flex-direction: column;
   align-content: center;
-  font-family: "Roboto";
+  // font-family: "Roboto";
   font-size: 12px;
   line-height: 14px;
   letter-spacing: 0.31em;
@@ -98,7 +98,7 @@ export const Text = styled.div`
 export const WorkSheet = styled.div`
   flex-direction: column;
   align-content: left;
-  font-family: "Roboto";
+  // font-family: "Roboto";
   font-size: 12px;
   line-height: 14px;
   letter-spacing: 0.31em;
@@ -115,7 +115,7 @@ export const WorkSheet = styled.div`
 `;
 
 export const SubjectTitle = styled.h3`
-  font-family: "Roboto";
+  // font-family: "Roboto";
   font-size: 20px;
   font-weight: 1000;
   line-height: 14px;
@@ -134,7 +134,7 @@ export const SubjectTitle = styled.h3`
   }
 `;
 export const Button = styled.button`
-  font-family: "Roboto";
+  // font-family: "Roboto";
   font-size: 12px;
   // font-weight: 500;
   line-height: 14px;

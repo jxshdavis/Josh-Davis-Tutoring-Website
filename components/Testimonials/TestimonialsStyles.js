@@ -5,7 +5,7 @@ export const Container = styled.div`
 `;
 
 export const Title = styled.div`
-  font-family: "Roboto";
+  font-family: "Roboto", sans-serif;
   font-size: 25px;
   font-weight: 1000;
   padding: 50px;
@@ -42,7 +42,7 @@ export const Card1 = styled.div`
   display: flex;
   flex-direction: column;
   align-content: center;
-  font-family: "Roboto";
+  font-family: "Roboto", sans-serif;
   // line-height: 14px;
   // letter-spacing: 0.31em;
   // text-transform: uppercase;
@@ -58,7 +58,7 @@ export const Card2 = styled.div`
   display: flex;
   flex-direction: column;
   align-content: center;
-  font-family: "Roboto";
+  font-family: "Roboto", sans-serif;
   // line-height: 14px;
   // letter-spacing: 0.31em;
   // text-transform: uppercase;
@@ -75,7 +75,7 @@ export const Card3 = styled.div`
   display: flex;
   flex-direction: column;
   align-content: center;
-  font-family: "Roboto";
+  font-family: "Roboto", sans-serif;
   // line-height: 14px;
   // letter-spacing: 0.31em;
   // text-transform: uppercase;
@@ -88,7 +88,7 @@ export const Card3 = styled.div`
 `;
 
 export const Quote = styled.div`
-  font-family: "Roboto";
+  // font-family: "Roboto";
   font-style: normal;
   font-weight: 1000;
   font-size: 20px;
@@ -103,7 +103,7 @@ export const Quote = styled.div`
 `;
 
 export const Signature = styled.div`
-  font-family: "Roboto";
+  // font-family: "Roboto";
   font-style: normal;
   font-weight: 300;
   font-size: 15px;

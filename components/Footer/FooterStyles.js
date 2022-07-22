@@ -8,7 +8,7 @@ export const Container = styled.div`
 `;
 
 export const Title = styled.div`
-  font-family: "Roboto";
+  font-family: "Roboto", sans-serif;
   font-weight: 1000;
   font-size: 30px;
   line-height: 35px;
@@ -20,7 +20,7 @@ export const Title = styled.div`
 `;
 
 export const Information = styled.div`
-  font-family: "Roboto";
+  font-family: "Roboto", sans-serif;
   font-style: normal;
   font-weight: 300;
   font-size: 12px;
