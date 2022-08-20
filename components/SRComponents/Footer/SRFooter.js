@@ -7,8 +7,8 @@ const SRFooter = () => {
     <Container>
       <Title>Reach Out</Title>
       <Information>
-        You can reach out to me when ever you want to schedule a session to ask
-        question or go through problems. My phone number is (224)-425-7952. You
+        You can reach out to me whenever you want to schedule a session to ask
+        questions or go through problems. My phone number is (224)-425-7952. You
         can click on the contact button to email me as well!
       </Information>
     </Container>
