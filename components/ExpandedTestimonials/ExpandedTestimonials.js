@@ -52,7 +52,7 @@ const ExpandedTestimonials = () => {
             memorizing stuff. I feel like he really gets what I’m saying when I
             ask questions and he always makes sure I understand everything
             before moving on to the next concept. I always get a lot done every
-            session with Josh and would definitely recommend him. &quote;
+            session with Josh and would definitely recommend him.”
           </Quote>
           <Signature>-Luca, Student</Signature>
         </Card>
