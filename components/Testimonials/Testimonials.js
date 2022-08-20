@@ -37,7 +37,7 @@ const Testimonials = () => {
           <div style={{ zIndex: 0 }}>
             <Quote>
               “Josh Davis is an exceptional teacher! He has tutored my daughter
-              in both Precalculus and Physics..."
+              in both Precalculus and Physics...”
             </Quote>
             <Signature> - Jill, Parent</Signature>
           </div>

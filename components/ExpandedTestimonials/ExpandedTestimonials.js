@@ -47,12 +47,12 @@ const ExpandedTestimonials = () => {
         </Card>
         <Card>
           <Quote>
-            " Josh is a very patient tutor. He explains my calculus problems
+            “Josh is a very patient tutor. He explains my calculus problems
             super well so that I really understand the concept instead of just
             memorizing stuff. I feel like he really gets what I’m saying when I
             ask questions and he always makes sure I understand everything
             before moving on to the next concept. I always get a lot done every
-            session with Josh and would definitely recommend him."
+            session with Josh and would definitely recommend him. &quote;
           </Quote>
           <Signature>-Luca, Student</Signature>
         </Card>
