@@ -8,6 +8,7 @@ export const HeaderContainer = styled.div`
 
   @media only screen and (max-width: 600px) {
     display: flex;
+    align-items: center;
     flex-direction: column;
     padding: 2rem;
     padding-bottom: 0;
@@ -24,6 +25,8 @@ export const HeadShot = styled.div`
   grid-area: 2 / 2 / 3 / 3;
   @media only screen and (max-width: 900px) {
     grid-area: 2 / span 2 / 3 / 3;
+    width: 75%;
+    padding: 30px;
   }
   // display: flex;
   // flex-direction: row;

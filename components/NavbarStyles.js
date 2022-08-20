@@ -39,7 +39,7 @@ export const Title = styled.span`
   padding-bottom: 20px;
   padding-left: 20px;
   @media only screen and (max-width: 600px) {
-    grid-area: 1 / 1 / 2 / 3;
+    // grid-area: 1 / 1 / 2 / 3;
     padding-top: 0px;
     padding-right: 0px;
     padding-bottom: 0px;
@@ -56,7 +56,7 @@ export const Div2 = styled.div`
   // grid-area: span 1 / 5 / 2 / span 5;
   grid-area: 1 / 4 / 2 / span 5;
   display: flex;
-  justify-content: space-around;
+  justify-content: center;
   align-items: center;
   font-family: "Futura";
   font-size: 12px;
@@ -129,7 +129,7 @@ export const ContactButton = styled.button`
 
   &:hover {
     opacity: 0.9;
-    transform: scale(1.7);
+    transform: scale(1.3);
     transition: 0.7s;
     color: #ffffff;
     background-image: linear-gradient(
@@ -174,7 +174,7 @@ export const Button = styled.button`
     transition: 0.7s;
     cursor: pointer;
   }
-  display: flex;
+  // display: flex;
   // align-items: right;
   text-align: center;
   letter-spacing: 0.31em;

@@ -34,3 +34,25 @@ export const Information = styled.div`
 
   // background: pink;
 `;
+
+export const Button = styled.button`
+  box-sizing: border-box;
+  background: #ffffff;
+  border: 0px solid #000000;
+  // box-shadow: 0px 4px 34px -19px rgba(158, 182, 204, 0.52);
+
+  color: #000000;
+  /* identical to box height */
+  &:hover {
+    opacity: 0.9;
+    text-color: blue;
+    // transform: scale(1.1);
+    transition: 0.7s;
+    cursor: pointer;
+  }
+  // display: flex;
+  // align-items: right;
+
+  // background: green;
+  width: 150%;
+`;

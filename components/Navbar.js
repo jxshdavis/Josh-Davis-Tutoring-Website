@@ -40,7 +40,7 @@ const Navbar = () => {
         <ul style={{ listStyle: "none" }}>
           <li>
             <Link href="/studentresources">
-              <Button>Student Resources</Button>
+              <Button style={{ width: "100%" }}>Student Resources</Button>
             </Link>
           </li>
         </ul>
@@ -48,7 +48,9 @@ const Navbar = () => {
 
       <Div3>
         <ContactButton
-          onClick={() => (window.location = "mailto:josh.a.davis456@gmail.com")}
+          onClick={() =>
+            (window.location = "mailto:joshdavistutoring@gmail.com")
+          }
         >
           Contact
         </ContactButton>

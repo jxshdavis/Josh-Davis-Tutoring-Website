@@ -7,13 +7,13 @@ const Bio = () => {
       <Name>Josh Davis</Name>
       <Header2>A Bit about me</Header2>
       <Content>
-        About me blurb. I’m currently a Junior at Rice University studying
-        mathematics. I’ve been tutoring for _ many years, on topics ranging from
-        Trigonometry and Calculus to etc. Some notes on my philosophy with
-        teaching and learning.{" "}
+        I am a Junior at Rice University studying mathematics and computer
+        science. I’ve been idependently tutoring math and science for 3 years. I
+        beleive that tackling new problems and asking questions are best ways to
+        learn. My goal is to teach all my students how to think creatively.{" "}
       </Content>
       <Header2>Education</Header2>
-      <Content2>Mathematics Major at Rice Univerisity</Content2>
+      <Content2>Pursuing Mathematics Major at Rice Univerisity</Content2>
     </div>
   );
 };

@@ -5,17 +5,25 @@ import {
   SubjectHeader,
   Decription,
   CsCard,
+  Subject,
+  Container,
 } from "./TutoringBioStyles";
 
 const TutoringBio = () => {
   return (
-    <div>
+    <Container>
       <Header2>What I Tutor</Header2>
       <MathCard>
         <SubjectHeader>Math</SubjectHeader>
         <Decription>
-          Algebra I / II Precalc Trigonometry Calculus AB / BC Multivar-Calculus
-          Linear Algebra Diffe-Equations Real Analysis
+          <Subject>Algebra I / II</Subject>
+          <Subject>Trigonometry</Subject>
+          <Subject>Precalc</Subject>
+          <Subject>Calculus AB/BC</Subject>
+          <Subject>Multivar-Calculus</Subject>
+          <Subject>Linear Algebra</Subject>
+          <Subject>Differential Equations</Subject>
+          <Subject>Real Analysis</Subject>
         </Decription>
       </MathCard>
 
@@ -25,7 +33,7 @@ const TutoringBio = () => {
         <SubjectHeader>CS</SubjectHeader>
         <Decription>Python</Decription>
       </CsCard>
-    </div>
+    </Container>
   );
 };
 

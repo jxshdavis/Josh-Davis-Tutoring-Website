@@ -41,6 +41,7 @@ export const SubjectHeader = styled.div`
   padding: 20px;
   padding-bottom: 10px;
 `;
+export const Subject = styled.div``;
 export const Decription = styled.div`
   font-family: "Roboto", sans-serif;
   font-style: normal;
@@ -58,4 +59,11 @@ export const Decription = styled.div`
   //   background: cyan;
 
   color: #000000;
+`;
+export const Container = styled.div`
+  flex-direction: collumn;
+  // background: blue;
+  @media only screen and (max-width: 600px) {
+    padding-bottom: 30px;
+  }
 `;

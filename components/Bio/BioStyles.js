@@ -38,7 +38,7 @@ export const Content = styled.div`
   line-height: 189.9%;
   /* or 23px */
 
-  text-align: justify;
+  text-align: left;
   letter-spacing: 0.045em;
 
   color: #000000;
