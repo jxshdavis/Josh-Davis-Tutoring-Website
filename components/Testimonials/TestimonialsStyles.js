@@ -185,7 +185,7 @@ export const Button = styled.button`
   text-align: center;
   letter-spacing: 0.31em;
   text-transform: uppercase;
-  background: rgba(204, 239, 233, 0.16);
+  background: rgba(204, 239, 233, 0.6);
   // width: 100%;
   @media only screen and (max-width: 600px) {
     // width: 100%;
